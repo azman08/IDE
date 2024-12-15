@@ -26,7 +26,7 @@ Azman IDE is a lightweight, browser-based **code editor** for writing and testin
 
 | **Light Mode**                                     | **Dark Mode**                                     |
 | -------------------------------------------------- | ------------------------------------------------- |
-| ![Light Mode](https://via.placeholder.com/400x250) | ![Dark Mode](https://via.placeholder.com/400x250) |
+| ![Light Mode](https://drive.google.com/file/d/1twsxRJj9O1Q3wHrALPp_vZU23nrnP9qd/view?usp=drive_link) | ![Dark Mode](https://drive.google.com/file/d/1twsxRJj9O1Q3wHrALPp_vZU23nrnP9qd/view?usp=drive_link) |
 
 ---
 
