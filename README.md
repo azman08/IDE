@@ -21,16 +21,6 @@ Azman IDE is a lightweight, browser-based **code editor** for writing and testin
   - Fully responsive layout with intuitive navigation.
 
 ---
-
-## 🖥️ Preview
-
-| **Light Mode**                                     | **Dark Mode**                                     |
-| -------------------------------------------------- | ------------------------------------------------- |
-| ![Light Mode](https://ibb.co/hHptG9F) | ![Dark Mode](https://ibb.co/hHptG9F
-https://ibb.co/jbvFJJk) |
-
----
-
 ## 🛠️ Tech Stack
 
 - **Frontend**: React, Tailwind CSS, Monaco Editor
