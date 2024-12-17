@@ -34,7 +34,7 @@ Azman IDE is a lightweight, browser-based **code editor** for writing and testin
 ## 🙌 Contributing
 
 Contributions are welcome!  
-Feel free to fork this repo and submit a pull request.
+Feel free to fork this repo and submit a pull request...
 
 ---
 
